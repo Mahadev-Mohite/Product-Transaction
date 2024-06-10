@@ -1,0 +1,13 @@
+/* HomeLayout.css */
+
+.layout-container {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh; /* Ensures the layout takes the full height of the viewport */
+  }
+  
+  .content-container {
+    flex: 1; /* Takes up the remaining space next to the sidebar */
+    padding: 20px; /* Adds some padding for the main content */
+  }
+  

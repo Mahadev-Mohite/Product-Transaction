@@ -1,0 +1,28 @@
+.statistics-box {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.statistics-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  width: 150px;
+  text-align: center;
+}
+
+.statistics-item h4 {
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.statistics-item p {
+  margin: 0;
+  font-size: 14px;
+}
+.main{
+  margin-top: 100px;
+}

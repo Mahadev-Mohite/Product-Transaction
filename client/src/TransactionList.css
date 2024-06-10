@@ -1,0 +1,27 @@
+
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  justify-content: space-between;
+  /* margin-left:300px; */
+}
+
+.search-container label {
+  /* margin-right: 5rem; */
+}
+
+.outer-Transaction{
+  margin-top:50px
+
+}
+
+.mr{
+  margin-right:70px
+}
+
+.searchbox{
+  padding:8px;  
+  border-radius:10px;
+  border: 1px solid rgb(150, 147, 147);
+}
